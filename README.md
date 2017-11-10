@@ -1,6 +1,6 @@
 # random-countries
 
-##Instalation 
+## Instalation 
 `npm install`
 
 `npm start`
